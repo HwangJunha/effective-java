@@ -1,0 +1,3 @@
+rootProject.name = 'Effectivce-Java'
+include 'Chapter02'
+
